@@ -4,7 +4,7 @@ AI assisted contributor. I build small tools and fix real bugs.
 
 ## The Daily Commit
 
-A vintage-newspaper "on this day" page for any GitHub repository, generated on demand from the command line.
+A vintage-newspaper "on this day" page for any GitHub repository.
 
 [![RogueAlg0's daily commit](https://roguealg0.github.io/the-daily-commit/author/card.svg)](https://roguealg0.github.io/the-daily-commit/author/)
 
