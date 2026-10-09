@@ -12,4 +12,4 @@ Read [today's paper](https://roguealg0.github.io/the-daily-commit/author/) - my 
 
 ## taken
 
-An issue-vetting CLI for GitHub: answers "taken?" for any issue with a GO / TAKEN / CAUTION verdict, and discovers good-first-issue candidates worth contributing to.
+An issue-vetting CLI for GitHub: answers "taken?" for any issue with a GO / TAKEN / CAUTION verdict, and discovers good-first-issue candidates.
